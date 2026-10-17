@@ -14,7 +14,7 @@ LANGUAGE : PYTHON
 
 EXPLAIN VIDEO LINK :
 
-REPOSITORIES LINK :
+REPOSITORIES LINK :https://github.com/ayushjivani082/py_project.7----Moduler-Packger/tree/76aa0c737bb49ca44c4b17d9a8bc344d5dd3f243/7.%20Moduler%20%26%20Packger
 
 ---
 
